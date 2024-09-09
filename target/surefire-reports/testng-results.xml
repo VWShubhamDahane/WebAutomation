@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T16:54:20 IST" name="Surefire suite" finished-at="2024-06-27T16:54:54 IST" duration-ms="33787">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T16:54:20 IST" name="Surefire test" finished-at="2024-06-27T16:54:54 IST" duration-ms="33787">
+      <class name="org.vw.qa.Testcases.OrangeHRMLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:20 IST" name="setUp" finished-at="2024-06-27T16:54:31 IST" duration-ms="10290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:31 IST" name="loginTest" finished-at="2024-06-27T16:54:31 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:31 IST" name="teardown" finished-at="2024-06-27T16:54:33 IST" duration-ms="2198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:33 IST" name="setUp" finished-at="2024-06-27T16:54:40 IST" duration-ms="6635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTestA()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:40 IST" name="loginTestA" finished-at="2024-06-27T16:54:41 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestA -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:41 IST" name="teardown" finished-at="2024-06-27T16:54:43 IST" duration-ms="2043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:43 IST" name="setUp" finished-at="2024-06-27T16:54:51 IST" duration-ms="8301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTestB()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:51 IST" name="loginTestB" finished-at="2024-06-27T16:54:52 IST" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestB -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.vw.qa.Testcases.OrangeHRMLoginTest@4a7f959b]" started-at="2024-06-27T16:54:52 IST" name="teardown" finished-at="2024-06-27T16:54:54 IST" duration-ms="2056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.vw.qa.Testcases.OrangeHRMLoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
